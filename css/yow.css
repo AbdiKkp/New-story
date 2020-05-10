@@ -3,22 +3,28 @@ body{
 	font-family: Helvetica;
 	font-size: 20px;
 	line-height: 30px;
+	background-color: linear-gradient(125deg, #6a89cc)
 }
 
 header {
-	background-color: #d14635;
+	background-color: #d14635;;
 	text-align: center;
-	padding-top:  30px;
-	padding-bottom: 20px;
+	padding-top:  80px;
+	padding-bottom: 80px;
 
 
 }
+
+
+
 
 header h1 {
-	color: black;
-	font-size: 80px;
+	color: white;
+	font-size: 70px;
 
 }
+
+
 
 h1, h2 {
 	font-family: 'Permanent Marker', cursive;
@@ -26,9 +32,10 @@ font-family: 'Fredoka One', cursive;
 }
 
 header img {
-	border-radius: 170px;
+	border-radius: 190px;
 	width: 300px;
-	border: 15px solid white;
+	border: 12px solid white;
+
 }
 
 
@@ -57,7 +64,7 @@ a:hover{
 }
 
 h1:hover{
-	color: gold;
+	color: black;
 }
 
 footer{
@@ -80,4 +87,12 @@ p.caption{
 
 p {
 	font-size: 16px;
+}
+
+header h2{
+	color: #E8D123;
+}
+
+header h1 br{
+	color: blue;
 }
