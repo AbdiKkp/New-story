@@ -9,7 +9,7 @@ header {
 	background-color: #d14635;
 	text-align: center;
 	padding-top:  30px;
-	padding-bottom: 30px;
+	padding-bottom: 20px;
 
 
 }
@@ -57,7 +57,7 @@ a:hover{
 }
 
 h1:hover{
-	color: white;
+	color: gold;
 }
 
 footer{
