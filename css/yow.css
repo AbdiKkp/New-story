@@ -128,28 +128,28 @@ color: white;
 .social-bottons a{
 	display: inline-flex;
 	text-decoration: none;
-	font-size: 30px;
+	font-size: 25px;
 	width: 60px;
 	height: 60px;
 	color: white;
 	justify-content: center;
 	align-items: center;
 	position: relative;
-	margin: 0 8px;
-}
+	margin: 10px; 
 
+
+
+}
 .social-bottons a::before{
-	content: "";
 	position: absolute;
 	width: 60px;
 	height: 60px;
-	background:  linear-gradient(45deg,#050613,#30336b);
+	background:  linear-gradient(45deg,#22a6b3,#161b41);
 	border-radius: 57px;
 	z-index: -1;
 	transition: 0.3s ease-in;
 }
 
-}
 
 .social-bottons a:hover ::before{
 	transform: scale(0);
@@ -162,7 +162,7 @@ color: white;
 }
 
 .social-bottons a:hover i{
-	background:  linear-gradient(45deg,#22a6b3,#161b41);
+	background:  linear-gradient(45deg,#22a6b3,#161b41 );
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: none;
 	transform: scale(2.2);
