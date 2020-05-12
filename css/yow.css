@@ -130,7 +130,7 @@ color: white;
 .social-bottons a{
 	display: inline-flex;
 	text-decoration: none;
-	font-size: 25px;
+	font-size: 30px;
 	width: 60px;
 	height: 60px;
 	color: white;
@@ -171,3 +171,6 @@ color: white;
 
 }
 
+footer h2{
+	font-size: 20px;
+}
