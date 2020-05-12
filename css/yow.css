@@ -74,9 +74,7 @@ footer{
 	background-color: black;
 	text-align: center;
 	color: white;
-	padding: 50px;
-	border-top-right-radius: 65px;
-	border-top-left-radius: 65px;
+	padding: 100px;
 	margin: 0;
 
 }
@@ -127,3 +125,46 @@ color: white;
 
 }
 
+.social-bottons a{
+	display: inline-flex;
+	text-decoration: none;
+	font-size: 21.1px;
+	width: 60px;
+	height: 60px;
+	color: white;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	margin: 0 8px;
+}
+
+.social-bottons a::before{
+	content: "";
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	background:  linear-gradient(45deg,#050613,#30336b);
+	border-radius: 57px;
+	z-index: -1;
+	transition: 0.3s ease-in;
+}
+
+}
+
+.social-bottons a:hover ::before{
+	transform: scale(0);
+
+}
+
+.social-bottons a i{
+	transition: 0.1s ease-in;
+
+}
+
+.social-bottons a:hover i{
+	background:  linear-gradient(45deg,#22a6b3,#161b41);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: none;
+	transform: scale(2.2);
+
+}
