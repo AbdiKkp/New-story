@@ -70,12 +70,14 @@ h1:hover{
 	color: black;
 }
 
-footer{
+footer {
 	background-color: black;
 	text-align: center;
 	color: white;
-	padding: 100px;
+	padding: 11px;
 	margin: 0;
+	border-top-right-radius: 65px;
+	border-top-left-radius: 65px;
 
 }
 
@@ -168,3 +170,4 @@ color: white;
 	transform: scale(2.2);
 
 }
+
