@@ -127,6 +127,8 @@ color: white;
 
 }
 
+/* social buttons worked */
+
 .social-bottons a{
 	display: inline-flex;
 	text-decoration: none;
@@ -194,8 +196,8 @@ color: 	#ECFF00
 }
 
 .red mark{
-	border-radius: 15px;
-}
+	border-radius: 12px;
+
 
 .last{
 color: #13E786
