@@ -204,6 +204,10 @@ color: 	#ECFF00
 color: #13E786
 }
 
+
+/* starts here scrollbar section */
+
+
 ::-webkit-scrollbar{
 	width: 2;
 }
@@ -260,3 +264,5 @@ height: 100%;
 background: linear-gradient(to top,#008aff,#00ffe7);
 filter: blur(30px);
 }
+
+/* ends here scrollbar section */
