@@ -11,7 +11,7 @@ header {
 	text-align: center;
 	padding-top:  0px;
 	padding-bottom: 80px;
-	border-bottom-right-radius: 120px;
+	border-bottom-right-radius: 97px;
 	border-bottom-left-radius: 97px;
 
 
@@ -73,7 +73,7 @@ footer {
 	text-align: center;
 	color: white;
 	padding: 11px;
-	margin: 0;
+	margin: 0px;
 	border-top-right-radius: 65px;
 	border-top-left-radius: 65px;
 
@@ -193,7 +193,7 @@ color: 	#ECFF00
 	color: #9E0299
 }
 
-mark{
+.red mark{
 	border-radius: 15px;
 }
 
