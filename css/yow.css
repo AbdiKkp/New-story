@@ -6,6 +6,8 @@ body{
 	background-color: linear-gradient(125deg, #6a89cc)
 }
 
+/* header */
+
 header {
 	background-color: #d14635;
 	text-align: center;
@@ -37,7 +39,7 @@ font-family: 'Fredoka One', cursive;
 header img {
 	border-radius: 170px;
 	width: 300px;
-	border: 12px solid white;
+	border: 12px solid #6BFFB5 ;
 
 }
 
