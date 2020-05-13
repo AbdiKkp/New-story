@@ -105,14 +105,14 @@ header h1 br{
 	color: blue;
 }
 header p{
-	color: #5000E7 ;
-	background-color: #FFC300 ;
+	color: #0008FF   ;
+	background-color: #FFFFFF ;
 	padding: 0;
 	padding-top: 0px;
 	margin-left: 200px;
 	margin-right: 200px;
 	border-radius: 190px;
-	border: 5px solid #BF7168;
+	border: 5px solid #4900FE ;
 }
 
 h3 {
