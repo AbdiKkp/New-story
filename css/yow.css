@@ -15,6 +15,7 @@ header {
 	padding-bottom: 80px;
 	border-bottom-right-radius: 97px;
 	border-bottom-left-radius: 97px;
+	order: 1;
 
 
 }
@@ -76,7 +77,7 @@ footer {
 	margin: 0px;
 	border-top-right-radius: 65px;
 	border-top-left-radius: 65px;
-
+    order: 2;
 }
 
 footer p{
