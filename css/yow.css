@@ -15,7 +15,7 @@ header {
 	padding-bottom: 80px;
 	border-bottom-right-radius: 97px;
 	border-bottom-left-radius: 97px;
-	order: 1;
+	
 
 
 }
@@ -36,12 +36,11 @@ font-family: 'Fredoka One', cursive;
 }
 
 header img {
-	border-radius: 180px;
+	border-radius: 190px;
 	width: 300px;
-	border: 16px solid #6BFFB5 ;
+	border: 18px solid #6BFFB5 ;
 
 }
-
 
 main{
 	max-width: 800px;
@@ -77,7 +76,6 @@ footer {
 	margin: 0px;
 	border-top-right-radius: 65px;
 	border-top-left-radius: 65px;
-    order: 2;
 }
 
 footer p{
