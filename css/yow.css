@@ -45,6 +45,7 @@ header img {
 	border-radius: 180px;
 	width: 300px;
 	border: 18px solid #6BFFB5 ;
+	margin-top: 60px;
 
 }
 
@@ -122,16 +123,26 @@ header p{
 }
 
 h3 {
-	background-color: red;
-	margin-top: 0px;
-	text-align: center;
-	padding: 0;
-	padding-top: 10px;
-	padding-bottom: 10px;
-position: top;
-color: white;
-font-family: Arial;
+		background-color: red;
+		margin-top: 0px;
+		text-align: center;
+		padding: 0;
+		padding-top: 5px;
+		padding-bottom: 5px;
+	position: top;
+	color: white;
+	font-family: Arial;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	
 
+}
+
+.sticky {
+	position: fixed;
+	top: 0;
+    left: 0;
+    width: 100%;
 }
 
 /* social buttons worked */
