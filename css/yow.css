@@ -109,14 +109,16 @@ header h1 br{
 	color: blue;
 }
 header p{
-	color: #0008FF   ;
+	color: #0008FF;
 	background-color: #FFFFFF ;
 	padding: 0;
 	padding-top: 0px;
 	margin-left: 200px;
 	margin-right: 200px;
 	border-radius: 190px;
-	border: 5px solid #4900FE ;
+	border: 5px solid red;
+
+
 }
 
 h3 {
@@ -137,7 +139,7 @@ font-family: cursive;
 .social-bottons a{
 	display: inline-flex;
 	text-decoration: none;
-	font-size: 40px;
+	font-size: 30px;
 	width: 60px;
 	height: 60px;
 	color: white;
