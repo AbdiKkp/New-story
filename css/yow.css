@@ -9,13 +9,15 @@ body{
 /*---- header ------*/
 
 header {
-	background-color: #d14635;
 	text-align: center;
 	padding-top:  0px;
 	padding-bottom: 80px;
 	border-bottom-right-radius: 97px;
 	border-bottom-left-radius: 97px;
-	
+background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
+url(https://images.pexels.com/photos/1603901/pexels-photo-1603901.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+ background-position: center;
+    background-size: cover;
 
 
 }
@@ -26,6 +28,10 @@ header h1 {
 	color: white;
 	font-size: 70px;
 
+}
+
+header .black{
+	color: #fff;
 }
 
 
