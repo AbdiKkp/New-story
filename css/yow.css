@@ -127,8 +127,8 @@ h3 {
 		margin-top: 0px;
 		text-align: center;
 		padding: 0;
-		padding-top: 5px;
-		padding-bottom: 5px;
+		padding-top: 10px;
+		padding-bottom: 10px;
 	position: top;
 	color: white;
 	font-family: Arial;
@@ -143,6 +143,7 @@ h3 {
 	top: 0;
     left: 0;
     width: 100%;
+
 }
 
 /* social buttons worked */
