@@ -202,3 +202,21 @@ color: 	#ECFF00
 color: #13E786
 }
 
+@media only screen and (max-width: 661px) {
+    .black {
+        font-size: 50px;
+       
+    }
+}
+
+@media only screen and (max-width: 490px) {
+ .black2{
+ 	display: none;
+ }
+}
+
+@media only screen and (max-width: 478px) {
+	.black{
+		font-size: 40px;
+	}
+}
