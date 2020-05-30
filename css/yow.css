@@ -130,7 +130,7 @@ h3 {
 	padding-bottom: 10px;
 position: top;
 color: white;
-font-family: Arial;
+font-family: cursive;
 
 }
 
@@ -232,7 +232,7 @@ color: #13E786
 }
 
 @media only screen and (max-width: 478px) {
-
+	
 	.social-bottons a {
        font-size: 40px;
     }
