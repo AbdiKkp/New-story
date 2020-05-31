@@ -54,6 +54,7 @@ main{
 	max-width: 800px;
     margin: 0 auto;
     padding: 20px;
+
 }
 
 main img{
@@ -90,6 +91,7 @@ footer {
 footer p{
 	margin: 0;
 	color: #11C3AE;
+	font-size: 13px;
 
 }
 
