@@ -18,6 +18,7 @@ background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
 url(https://sme.asia/en/wp-content/uploads/2020/01/5e2da00562fa8170594db682.jpeg);
  background-position: center;
     background-size: cover;
+    background-attachment: fixed;
 
 
 }
